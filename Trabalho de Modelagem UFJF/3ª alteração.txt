@@ -1,0 +1,9 @@
+Diagrama de Estado:
+- Exemplar
+
+Diagrama de sequência:
+- Efetuar Devolução
+- Realizar Emprestimo
+- Reservar Obra
+
+Diagrama de Classes
